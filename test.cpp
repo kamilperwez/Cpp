@@ -2,10 +2,10 @@
 int ma(int n){
     std::cout<<"Hello World"<<std ::endl;
 
-    return n*n;
+    return n*n*n;
 }
 int main(){
-    int z=ma(9);
+    int z=ma(10);
     std::cout<<z;
     return 0;
 }
