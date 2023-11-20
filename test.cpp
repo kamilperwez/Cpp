@@ -5,7 +5,7 @@ int ma(int n){
     return n*n*n;
 }
 int main(){
-    int z=ma(10);
+    int z=ma(120);
     std::cout<<z;
     return 0;
 }
